@@ -1,0 +1,2 @@
+result is: Hello first text
+hello this is second
